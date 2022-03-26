@@ -15,7 +15,7 @@ This project has no use.
 * Markdown
 
 ### Collaborators
-None
+> None
 
 --------------
 #### License
